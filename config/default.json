@@ -1,0 +1,4 @@
+{
+    "mongoURI": "mongodb+srv://dhruv:dmsr2000@cluster0.lhlqk.mongodb.net/rsysDB?retryWrites=true&w=majority",
+    "jwtSecret": "jwtrsyskey"
+  }
